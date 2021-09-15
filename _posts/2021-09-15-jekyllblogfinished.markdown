@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Introduction Post"
+title:  Introduction Post
 date:   2021-09-15 13:18:27 -0500
 categories: blog post
 ---
