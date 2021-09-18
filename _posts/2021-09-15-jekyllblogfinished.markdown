@@ -2,6 +2,7 @@
 layout: post
 title:  Introduction Post
 date:   2021-09-15 13:18:27 -0500
+author: Paxton Higgerson
 categories: blog post
 ---
 ## Introduction Post: 9-15-21
